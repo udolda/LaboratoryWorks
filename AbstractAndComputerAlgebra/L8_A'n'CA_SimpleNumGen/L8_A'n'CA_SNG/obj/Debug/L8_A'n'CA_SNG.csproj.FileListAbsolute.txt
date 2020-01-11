@@ -1,0 +1,6 @@
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\bin\Debug\L8_A'n'CA_SNG.exe.config
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\bin\Debug\L8_A'n'CA_SNG.exe
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\bin\Debug\L8_A'n'CA_SNG.pdb
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\obj\Debug\L8_A'n'CA_SNG.csprojAssemblyReference.cache
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\obj\Debug\L8_A'n'CA_SNG.exe
+F:\ВятГУ\АбстрИКомпАлг\L8_A'n'CA_SimpleNumGen\L8_A'n'CA_SNG\obj\Debug\L8_A'n'CA_SNG.pdb
