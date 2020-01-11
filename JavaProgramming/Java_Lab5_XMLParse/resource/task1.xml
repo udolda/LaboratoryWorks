@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supply>
+    <region name="Ленинский">
+        <flat count="2" square="51.2" kitchen="14.6" housingpart="30.6">
+            <rooms>
+                <room>
+                    19.0
+                </room>
+                <room>
+                    11.6
+                </room>
+            </rooms>
+            <seller tel="+7922-154-10-11" title="Иванов Иван"/>
+        </flat>
+        <flat count="4" square="100" kitchen="20" housingpart="80">
+            <rooms>
+                <room>
+                    29.0
+                </room>
+                <room>
+                    11.6
+                </room>
+                <room>
+                    10.4
+                </room>
+                <room>
+                    29
+                </room>
+            </rooms>
+            <seller tel="+7953-135-10-21" title="Сергеев Сергей"/>
+        </flat>
+    </region>
+    <region name="Октябрьский">
+        <flat count="1" square="30" kitchen="10" housingpart="20">
+            <rooms>
+                <room>
+                    20
+                </room>
+            </rooms>
+            <seller tel="+7922-154-10-11" title="Петров Петр"/>
+        </flat>
+        <flat count="2" square="51.2" kitchen="14.6" housingpart="30.6">
+            <rooms>
+                <room>
+                    19.0
+                </room>
+                <room>
+                    11.6
+                </room>
+            </rooms>
+            <seller tel="+7922-154-10-11" title="Иванов Иван"/>
+        </flat>
+    </region>
+</supply>

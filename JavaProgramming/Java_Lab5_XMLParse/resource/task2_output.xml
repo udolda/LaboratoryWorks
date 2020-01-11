@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<supply description="Описание">Список Всех квартир с атрибутом - район
+    <count_of_rooms count="2">
+        <flat housingpart="30,60" kitchen="14,60" region="Ленинский" square="51,20">
+            <rooms>
+                <room>19,00</room>
+                <room>11,60</room>
+            </rooms>
+            <seller name="Иванов Иван" tel="+7922-154-10-11"/>
+        </flat>
+        <flat housingpart="30,60" kitchen="14,60" region="Октябрьский" square="51,20">
+            <rooms>
+                <room>19,00</room>
+                <room>11,60</room>
+            </rooms>
+            <seller name="Иванов Иван" tel="+7922-154-10-11"/>
+        </flat>
+    </count_of_rooms>
+    <count_of_rooms count="4">
+        <flat housingpart="80,00" kitchen="20,00" region="Ленинский" square="100,00">
+            <rooms>
+                <room>29,00</room>
+                <room>11,60</room>
+                <room>10,40</room>
+                <room>29,00</room>
+            </rooms>
+            <seller name="Сергеев Сергей" tel="+7953-135-10-21"/>
+        </flat>
+    </count_of_rooms>
+    <count_of_rooms count="1">
+        <flat housingpart="20,00" kitchen="10,00" region="Октябрьский" square="30,00">
+            <rooms>
+                <room>20,00</room>
+            </rooms>
+            <seller name="Петров Петр" tel="+7922-154-10-11"/>
+        </flat>
+    </count_of_rooms>
+</supply>
