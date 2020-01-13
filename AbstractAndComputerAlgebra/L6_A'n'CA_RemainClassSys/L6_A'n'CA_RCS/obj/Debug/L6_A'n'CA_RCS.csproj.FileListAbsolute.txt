@@ -1,0 +1,6 @@
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\bin\Debug\L6_A'n'CA_RCS.exe.config
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\bin\Debug\L6_A'n'CA_RCS.exe
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\bin\Debug\L6_A'n'CA_RCS.pdb
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\obj\Debug\L6_A'n'CA_RCS.csprojAssemblyReference.cache
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\obj\Debug\L6_A'n'CA_RCS.exe
+F:\ВятГУ\АбстрИКомпАлг\L6_A'n'CA_RemainClassSys\L6_A'n'CA_RCS\obj\Debug\L6_A'n'CA_RCS.pdb
