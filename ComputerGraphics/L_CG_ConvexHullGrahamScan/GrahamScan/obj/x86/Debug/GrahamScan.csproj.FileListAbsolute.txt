@@ -1,0 +1,13 @@
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\bin\Debug\GrahamScan.exe
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\bin\Debug\GrahamScan.pdb
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.csprojAssemblyReference.cache
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\MainWindow.g.cs
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\App.g.cs
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan_MarkupCompile.cache
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan_MarkupCompile.lref
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\MainWindow.baml
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.g.resources
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.Properties.Resources.resources
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.csproj.GenerateResource.cache
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.exe
+E:\ВятГУ\Компьютерная графика\GrahamScan\GrahamScan\GrahamScan\obj\x86\Debug\GrahamScan.pdb
