@@ -1,0 +1,5 @@
+F:\ВятГУ\Компьютерная графика\L_CG_ConvexHullGiftWrapping\L_CG_ConvexHull\L_CG_CHGiftWrapping\bin\Debug\L_CG_CHGiftWrapping.exe.config
+F:\ВятГУ\Компьютерная графика\L_CG_ConvexHullGiftWrapping\L_CG_ConvexHull\L_CG_CHGiftWrapping\bin\Debug\L_CG_CHGiftWrapping.exe
+F:\ВятГУ\Компьютерная графика\L_CG_ConvexHullGiftWrapping\L_CG_ConvexHull\L_CG_CHGiftWrapping\bin\Debug\L_CG_CHGiftWrapping.pdb
+F:\ВятГУ\Компьютерная графика\L_CG_ConvexHullGiftWrapping\L_CG_ConvexHull\L_CG_CHGiftWrapping\obj\Debug\L_CG_CHGiftWrapping.exe
+F:\ВятГУ\Компьютерная графика\L_CG_ConvexHullGiftWrapping\L_CG_ConvexHull\L_CG_CHGiftWrapping\obj\Debug\L_CG_CHGiftWrapping.pdb
