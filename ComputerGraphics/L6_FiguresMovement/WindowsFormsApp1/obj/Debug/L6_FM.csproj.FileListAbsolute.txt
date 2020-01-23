@@ -1,0 +1,9 @@
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\L6_FM.csprojAssemblyReference.cache
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\L6_FM.csproj.GenerateResource.cache
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

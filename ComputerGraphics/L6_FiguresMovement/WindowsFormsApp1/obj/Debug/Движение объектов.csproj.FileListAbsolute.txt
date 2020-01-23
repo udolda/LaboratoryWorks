@@ -1,0 +1,28 @@
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Движение объектов.csproj.GenerateResource.cache
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Движение объектов.csproj.CoreCompileInputs.cache
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\лохач\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\Движение объектов.csprojAssemblyReference.cache
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\Движение объектов.csproj.GenerateResource.cache
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\Движение объектов.csproj.CoreCompileInputs.cache
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\5 семестр\Комп. Графика\Lab 6. Движение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\Движение объектов.csprojAssemblyReference.cache
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\Движение объектов.csproj.GenerateResource.cache
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Документы\ВятГУ\Компьютерная графика\L6_FiguresMovement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
