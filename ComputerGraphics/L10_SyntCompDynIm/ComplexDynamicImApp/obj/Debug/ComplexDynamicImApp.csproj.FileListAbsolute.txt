@@ -1,0 +1,9 @@
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\bin\Debug\ComplexDynamicImApp.exe.config
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\bin\Debug\ComplexDynamicImApp.exe
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\bin\Debug\ComplexDynamicImApp.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.csprojAssemblyReference.cache
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.Properties.Resources.resources
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.csproj.GenerateResource.cache
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.exe
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\ComplexDynamicImApp\obj\Debug\ComplexDynamicImApp.FormMain.resources

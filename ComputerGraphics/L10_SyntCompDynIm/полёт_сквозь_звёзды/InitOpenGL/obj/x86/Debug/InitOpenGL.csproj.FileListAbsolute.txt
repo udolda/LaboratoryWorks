@@ -1,0 +1,24 @@
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\bin\Debug\InitOpenGL.exe
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\bin\Debug\InitOpenGL.pdb
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.csprojResolveAssemblyReference.cache
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.Form1.resources
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.Properties.Resources.resources
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.csproj.GenerateResource.Cache
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.exe
+C:\DEV\no\cibergod.ru\InitOpenGL\InitOpenGL\obj\x86\Debug\InitOpenGL.pdb
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\obj\x86\Debug\InitOpenGL.exe
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\obj\x86\Debug\InitOpenGL.pdb
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\bin\Debug\InitOpenGL.exe
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\bin\Debug\InitOpenGL.pdb
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\obj\x86\Debug\InitOpenGL.Form1.resources
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\obj\x86\Debug\InitOpenGL.Properties.Resources.resources
+c:\$_Distrip_$\DEV\no\cibergod.ru\InitOpenGLpoint\InitOpenGL\obj\x86\Debug\InitOpenGL.csproj.GenerateResource.Cache
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\bin\Debug\InitOpenGL.exe
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\bin\Debug\InitOpenGL.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.Form1.resources
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.Properties.Resources.resources
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.csproj.GenerateResource.cache
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.csproj.CopyComplete
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.exe
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.pdb
+D:\Документы\ВятГУ\Компьютерная графика\L10_SyntCompDynIm\полёт_сквозь_звёзды\InitOpenGL\obj\x86\Debug\InitOpenGL.csprojAssemblyReference.cache
